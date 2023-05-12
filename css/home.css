@@ -1,0 +1,61 @@
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: #F6E8EA;
+  }
+  
+  header {
+    background-color: #C7B9CC;
+    padding: 1rem;
+    text-align: center;
+    color: #fff;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  #content {
+    margin: 1rem;
+  }
+  
+  #introduction {
+    text-align: center;
+    border: 2px solid #C7B9CC;
+    padding: 2rem;
+    background-color: #F8D7DA;
+  }
+  
+  #introduction h2 {
+    font-size: 2.5rem;
+    color: #C7B9CC;
+    margin-top: 0;
+  }
+  
+  #introduction p {
+    font-size: 1.5rem;
+    line-height: 2;
+  }
+  
+  #contact-info {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  

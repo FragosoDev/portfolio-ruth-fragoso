@@ -1,0 +1,21 @@
+.redes-sociais {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.redes-sociais a {
+  margin: 0 10px;
+}
+
+.redes-sociais a i {
+  font-size: 30px;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.redes-sociais a i:hover {
+  color: #ff6b6b;
+  transform: scale(1.2);
+}
